@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+div{
+    height: 50vh;
+    width: 90vw;
+    border: 2px solid black;
+}
+.first{
+    width: 50%; 
+    height: 30%;
+     border: 2px solid black;
+}

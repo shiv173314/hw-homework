@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h4{
+text-align: center;
+color: black
+}
+.office{
+    background: linear-gradient(to right, #000000, #e74c3c);
+}
+.item{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgba(0, 0, 0, 1);
+    height: 50px;
+    color: white;
+    align-items: center;
+}
+input{
+    width: 30%;
+}
+.section{
+    background-image: url(https://static01.nyt.com/images/2021/03/30/multimedia/28xp-shoes-09/28xp-shoes-09-superJumbo.jpg);
+    height: 683px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+p{
+    padding-left: 50px;
+    padding-bottom: 100px;
+    width: ;
+}
+.para{
+width: 500px;
+}

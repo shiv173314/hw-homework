@@ -27,12 +27,11 @@ input{
     width: 100%;
     background-size: cover;
     background-position: center;
-}
-p{
-    padding-left: 50px;
-    padding-bottom: 100px;
-    width: ;
+    color: white;
+    background-repeat: no-repeat;
 }
 .para{
 width: 500px;
+padding: 18% 6%;
+background-color: rgba(0, 0, 0, 0.5);
 }

@@ -1,0 +1,45 @@
+body{
+    background-color: lightgrey;
+}
+.container{
+     background: linear-gradient(to right, #b92b27, #1565c0);
+     border: 2px solid black;
+     height: 100vh;
+     width: 100%;
+}
+.shoes{
+    margin:auto;
+    width: 85%;
+    height: 75%;
+    border: 1px solid red;
+    margin-top: 7.7%;
+    background: linear-gradient(to right, #8a2387, #e94057, #f27121);
+}
+.containt{
+    width: 50%;
+    padding: 2%;
+    color: white;
+}
+p{
+    margin-top: 4%;
+}
+.boot{
+position: absolute;
+right: -34%;
+top: 5%;
+}
+img{
+    height: 57%;
+    width: 32%;
+}
+.boot:hover{
+    right: -10%;
+    img{
+        height: 80%;
+        width: 80%;   
+    }
+    
+}
+body{
+    overflow: hidden;
+}
